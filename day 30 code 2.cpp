@@ -1,5 +1,6 @@
-#include <stdio.h>
+//Write a Program to Count positive, negative, and zero elements in an array.
 
+#include <stdio.h>
 int main()
 {
     int n, i;
