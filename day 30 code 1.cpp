@@ -1,5 +1,7 @@
-#include <stdio.h>
+// write a program to count odd and even numbers in an array.
 
+
+#include <stdio.h>
 int main() {
     int arr[] = {12, 7, 9, 14, 6, 3, 8, 11};
     int size = sizeof(arr) / sizeof(arr[0]);
