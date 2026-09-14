@@ -1,3 +1,5 @@
+//writie a program to find the profit and loss percentage given cost price and selling price .
+
 #include <stdio.h>
 
 int main() {
