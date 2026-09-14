@@ -1,3 +1,5 @@
+//write a program to find the roots of a quadratic equation and categorise them 
+
 #include <stdio.h>
 #include <math.h>
 
