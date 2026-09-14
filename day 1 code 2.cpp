@@ -1,3 +1,5 @@
+//write a program to input two numbers and find and display their sum , difference , product and quotient .
+
 #include <stdio.h>
 
 int main() {
