@@ -1,3 +1,5 @@
+//write a program to convert temperature from celsius to fahrenheit 
+
 #include <stdio.h>
 
 int main() {
