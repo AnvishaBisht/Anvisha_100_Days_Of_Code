@@ -1,4 +1,4 @@
-#include <stdio.h>
+//write a program to input two numbers and find amd display their sum#include <stdio.h>
 
 int main() {
     int num1, num2, sum;
