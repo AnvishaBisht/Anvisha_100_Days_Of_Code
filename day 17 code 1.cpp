@@ -1,3 +1,5 @@
+//write a  C program to check if a number is a armstrong number
+
 #include <stdio.h>
 #include <math.h>
 
