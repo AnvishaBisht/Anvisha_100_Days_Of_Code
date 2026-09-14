@@ -1,8 +1,12 @@
+//Write a program to print the product of even numbers from 1 to n.
+
+
 #include <stdio.h>
 
 int main() {
     int n, i;
     long long product = 1;
+
 
     printf("Enter the value of N: ");
     scanf("%d", &n);
