@@ -1,3 +1,10 @@
+//write a program that accepts a peercentageb (0-100) and assigns a grade based on the followinng criteria :
+90-100: grade A
+80-89:grade B 
+70-79:grade C 
+60-69:grade D
+below 69:grade F 
+
 #include <stdio.h>
 
 int main() {
