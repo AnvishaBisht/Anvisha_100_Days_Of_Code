@@ -1,3 +1,5 @@
+//write a program to display the days of the week based on the number(1-7)using switch case. 
+
 #include <stdio.h>
 
 int main() {
