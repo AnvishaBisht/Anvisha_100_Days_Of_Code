@@ -1,3 +1,5 @@
+//write a program to input three numbers and  find the largest number among them using if-else.
+
 #include <stdio.h>
 
 int main() {
