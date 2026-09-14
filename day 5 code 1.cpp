@@ -1,4 +1,4 @@
-#include <stdio.h>
+// write a program to calculate simple and compound interest for a given principal , rate and time #include <stdio.h>
 #include <math.h>
 
 int main() {
