@@ -1,4 +1,4 @@
-#include <stdio.h>
+//write a program to  input a haraccter and check whether it is uppercase alphabet , lowercase alphabet , digit or a special character #include <stdio.h>
 
 int main() {
     char ch;
