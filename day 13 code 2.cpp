@@ -1,3 +1,5 @@
+//write a program to print numbers from 1-n .
+
 #include <stdio.h>
 
 int main() {
