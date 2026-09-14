@@ -1,3 +1,5 @@
+//write a program to classify to triangle aas equilateral , issosceles or scalene based on its side lengths. 
+
 #include <stdio.h>
 
 int main() {
